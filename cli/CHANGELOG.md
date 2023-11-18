@@ -1,5 +1,11 @@
 # Changelog
 
+## 7.23.3
+
+### Patch Changes
+
+- [#1661](https://github.com/t3-oss/create-t3-app/pull/1661) [`ef8f99f`](https://github.com/t3-oss/create-t3-app/commit/ef8f99f65443e48284bc54699eeddc9d10c43a8c) Thanks [@c-ehrlich](https://github.com/c-ehrlich)! - update sharp
+
 ## 7.23.2
 
 ### Patch Changes
